@@ -3,6 +3,11 @@ INF203 - Algoritma ve İleri Bilgisayar Programlama
 
 ### Notlar (Güncelleme: 2 Kasım 2014)
 
+Aşağıdaki linke tıklayarak ödevi gönderenlerin kodlarına yaptığım incelemeleri okuyabilirsiniz.
+Lütfen önce kendinize sonra diğer arkadaşlara yazılan incelemeleri dikkatlice okuyun.
+
+https://github.com/galatasarayuniversity/INF203/commit/76fd1778e1ddda3928244504267874a34152e578
+
 | Ad Soyad | Not |
 |:---------|:----|
 Alp Yücesoy|60
@@ -23,8 +28,8 @@ Mehmet Mazlum Daşkın|50
 Muratcan Kocabıyıkoğlu|100
 Onur Tezuyan|100
 Tuğba Görgün|40
-**Ortalama:**|28.42
-**Ortalama (Sıfırsız):**|60
+**Ortalama:**|**28.42**
+**Ortalama (Sıfırsız):**|**60**
 
 
 ### Ödev 1
