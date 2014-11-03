@@ -19,6 +19,7 @@ Derviş Başbabası|45
 Enes Türedi|40
 Enes Beşinci|85
 Erol Keskiner|90
+Esra Çakır|45
 Fatih Maşkaraoğlu|40
 Gamze Tan|45
 Halil Yavuz Çevik|95
@@ -28,8 +29,8 @@ Mehmet Mazlum Daşkın|50
 Muratcan Kocabıyıkoğlu|100
 Onur Tezuyan|100
 Tuğba Görgün|40
-**Ortalama:**|**28.42**
-**Ortalama (Sıfırsız):**|**60**
+**Ortalama:**|**29.61**
+**Ortalama (Sıfırsız):**|**59.21**
 
 
 ### Ödev 1
