@@ -2,8 +2,8 @@
 #define _STACK_H_
 
 struct stackNode {
-    double data;
-    struct stackNode *next;
+	double data;
+	struct stackNode *next;
 };
 
 /* Gosterici NULL ise 1, degilse 0 dondurur */
